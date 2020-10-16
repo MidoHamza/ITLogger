@@ -1,0 +1,66 @@
+{
+  "logs": [
+    {
+      "message": "Monitor 0000009 exchanged ",
+      "attention": false,
+      "tech": "Mido Hamza",
+      "date": "2020-07-16T20:35:36.389Z",
+      "id": 3
+    },
+    {
+      "message": "Hard drive replaced on Server 099",
+      "attention": false,
+      "tech": "Mohammed Hamza",
+      "date": "2020-07-17T21:57:19.573Z",
+      "id": 4
+    },
+    {
+      "message": "Network adapter needs to be replaced in workstation 025",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2020-07-17T21:57:53.292Z",
+      "id": 5
+    },
+    {
+      "message": "Server 05 is down",
+      "attention": true,
+      "tech": "Sebastian Schneider",
+      "date": "2020-07-17T21:58:22.310Z",
+      "id": 6
+    },
+    {
+      "message": "Laptop C777 has been exchanged",
+      "attention": false,
+      "tech": "Mido Hamza",
+      "date": "2020-07-17T21:59:05.157Z",
+      "id": 7
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "Mohammed",
+      "lastName": "Hamza",
+      "id": 5
+    },
+    {
+      "firstName": "Sam",
+      "lastName": "Smith",
+      "id": 7
+    },
+    {
+      "firstName": "David",
+      "lastName": "Leroy",
+      "id": 8
+    },
+    {
+      "firstName": "Sebastian",
+      "lastName": "Schneider",
+      "id": 9
+    },
+    {
+      "firstName": "Mido",
+      "lastName": "Hamza",
+      "id": 10
+    }
+  ]
+}
