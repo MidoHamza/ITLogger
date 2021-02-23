@@ -34,6 +34,27 @@
       "tech": "Mido Hamza",
       "date": "2020-07-17T21:59:05.157Z",
       "id": 7
+    },
+    {
+      "message": "Screen needs to be exchanged.",
+      "attention": false,
+      "tech": "Sebastian Schneider",
+      "date": "2021-02-10T14:54:34.028Z",
+      "id": 8
+    },
+    {
+      "message": "Hard drive of PC C7L1178956 is down.",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2021-02-10T14:57:38.311Z",
+      "id": 9
+    },
+    {
+      "message": "Keyboard C7D124595 has been replaced",
+      "attention": false,
+      "tech": "Sebastian Schneider",
+      "date": "2021-02-10T16:04:44.850Z",
+      "id": 10
     }
   ],
   "techs": [

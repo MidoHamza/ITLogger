@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+html {
+  background-color: #ceeef7;
+}
+body {
+  font-family: 'Poppins', 'Roboto', sans-serif;
+}
+.grey-text {
+  color: #145eb9 !important;
+}
+.black-text {
+  color: #06376b !important;
+  font-weight: bold;
+}
+
+h4 {
+  font-weight: bolder;
+  color: #145eb9;
+}
+.red-text {
+  color: #ca1609 !important;
+}
+.blue-text {
+  color: #145eb9 !important;
+  font-weight: 600;
+}
+input {
+  background-color: #145eb9;
+}
